@@ -1,0 +1,70 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;go_rest&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../go_path/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/.idea" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/google.golang.org" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../go_path/src/google.golang.org/grpc/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/.idea" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/gorilla/context/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/golang.org/x/crypto/ssh/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/docker/distribution/Godeps/_workspace" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/google.golang.org/grpc/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/docker/docker/hack/make/.resources-windows" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/gorilla/mux/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/docker/docker/hack/make/.build-deb" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/golang/protobuf/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/google.golang.org/cloud/storage/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/docker/docker/pkg/archive/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/golang.org/x/crypto/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/robfig/config/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/bradfitz/http2/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/golang.org/x/net/html/charset/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/google.golang.org/grpc/test/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/docker/docker/hack/make/.build-rpm" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/robfig/config/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/google.golang.org/cloud/datastore/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/golang.org/x/oauth2/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/Sirupsen/logrus/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/agtorre/gocolorize/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/robfig/pathtree/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/docker/docker/pkg/tarsum/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/golang.org/x/oauth2/google/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/astaxie/beego/utils/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/revel/cmd/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/docker/distribution/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/docker/docker/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/gopkg.in/fsnotify.v1/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/golang/protobuf/protoc-gen-go/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/go-sql-driver/mysql/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/golang.org/x/net/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/revel/modules/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/docker/docker/docs/reference/api/_static" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/docker/distribution/.idea" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/astaxie/beego/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/google.golang.org/cloud/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/golang.org/x/crypto/sha3/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/beego/samples/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/golang.org/x/net/html/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/google.golang.org/grpc/transport/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/AdRoll/goamz/cloudfront/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/beego/samples/todo/.idea" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/google.golang.org/grpc/interop/client/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/google.golang.org/grpc/interop/server/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/revel/revel/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/docker/docker/.idea" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/golang.org/x/net/http2/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/AdRoll/goamz/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/golang/protobuf/proto/testdata" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/github.com/revel/revel/.git" />
+      <root url="file://$PROJECT_DIR$/../go_path/src/google.golang.org/grpc/examples/route_guide/testdata" />
+    </excluded>
+  </library>
+</component>
